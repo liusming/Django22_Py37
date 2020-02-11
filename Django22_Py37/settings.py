@@ -60,7 +60,7 @@ INSTALLED_APPS = [
 SITE_ID = 1
 
 LANGUAGES = [
-    ('en-us', 'English'),
+    ('en', 'English'),
     ('de', 'German'),
 ]
 
@@ -152,7 +152,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'en'
 
 TIME_ZONE = 'UTC'
 
